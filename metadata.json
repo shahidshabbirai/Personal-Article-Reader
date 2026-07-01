@@ -1,0 +1,8 @@
+{
+  "name": "Personal Article Listener",
+  "description": "Paste any article, blog post, or notes and convert it into natural speech to listen while you work.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
